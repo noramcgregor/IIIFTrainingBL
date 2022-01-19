@@ -63,15 +63,41 @@
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000005DFC8.0x0000AC",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "qualities" : [ "gray", "color", "bitonal" ],
-              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+      
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 25,
+    "height" : 25
+  }, {
+    "width" : 50,
+    "height" : 49
+  }, {
+    "width" : 100,
+    "height" : 97
+  }, {
+    "width" : 200,
+    "height" : 193
+  }, {
+    "width" : 400,
+    "height" : 386
+  }, {
+    "width" : 800,
+    "height" : 772
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 800,
+  "@id" : "https://noramcgregor.github.io/IIIFTrainingBL/images/vdc_00000005DFC8.0x0000AC_Before",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 772
             } ]
           },
-          "height" : 2642,
-          "width" : 1748
+          "height" : 772,
+          "width" : 800
         },
         "on" : "http://daddc431-c07d-4891-b161-670557084010"
       } ],
