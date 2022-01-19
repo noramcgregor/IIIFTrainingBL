@@ -93,9 +93,6 @@
   "width" : 800,
   "@id" : "https://noramcgregor.github.io/IIIFTrainingBL/images/vdc_00000005DFC8.0x0000AC_Before",
   "@context" : "http://iiif.io/api/image/2/context.json",
-  "height" : 772
-            } ]
-          },
           "height" : 772,
           "width" : 800
         },
