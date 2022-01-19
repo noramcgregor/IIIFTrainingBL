@@ -1,0 +1,13 @@
+{
+  "id" : "https://noramcgregor.github.io/IIIFTrainingBL/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in noramcgregor/IIIFTrainingBL project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://noramcgregor.github.io/IIIFTrainingBL/manifests/manifest2.json",
+    "label" : "A series of original Portraits and Caricature Etchings by J. Kay"
+  } ]
+}
