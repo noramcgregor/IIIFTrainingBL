@@ -90,7 +90,7 @@
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 800,
-            "@id" : "https://noramcgregor.github.io/IIIFTrainingBL/images/vdc_00000005DFC8.0x0000AC_BeforeFullPage",
+            "@id" : "https://noramcgregor.github.io/IIIFTrainingBL/images/vdc_00000005DFC8.0x0000AC_BeforeFullPage.jpg",
             "@context" : "http://iiif.io/api/image/2/context.json",
             "height" : 772
           },
