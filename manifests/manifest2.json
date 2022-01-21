@@ -51,8 +51,8 @@
       "@id" : "http://daddc431-c07d-4891-b161-670557084010",
       "@type" : "sc:Canvas",
       "label" : "Before Marriage",
-      "height" : 2642,
-      "width" : 1748,
+      "height" : 800,
+      "width" : 1209,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://42430324-fcb6-40c7-90d0-a48a0ca4c2b0",
@@ -64,35 +64,41 @@
           "format" : "image/jpeg",
           "service" : {
             "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 25,
-              "height" : 25
-            }, {
-              "width" : 50,
-              "height" : 49
-            }, {
-              "width" : 100,
-              "height" : 97
-            }, {
-              "width" : 200,
-              "height" : 193
-            }, {
-              "width" : 400,
-              "height" : 386
-            }, {
-              "width" : 800,
-              "height" : 772
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 25,
+    "height" : 38
+  }, {
+    "width" : 50,
+    "height" : 76
+  }, {
+    "width" : 100,
+    "height" : 152
+  }, {
+    "width" : 200,
+    "height" : 303
+  }, {
+    "width" : 400,
+    "height" : 605
+  }, {
+    "width" : 800,
+    "height" : 1209
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 800,
+  "@id" : "https://noramcgregor.github.io/IIIFTrainingBL/images/vdc_00000005DFC8.0x0000AC_BeforeFullPage",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1209
             } ],
             "profile" : "http://iiif.io/api/image/2/level0.json",
             "width" : 800,
             "@id" : "https://noramcgregor.github.io/IIIFTrainingBL/images/vdc_00000005DFC8.0x0000AC_BeforeFullPage.jpg",
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 772
+            "height" : 1209
           },
           "on" : "http://daddc431-c07d-4891-b161-670557084010"
         }
