@@ -59,7 +59,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000005DFC8.0x0000AC/full/full/0/default.jpg",
+          "@id" : "https://noramcgregor.github.io/IIIFTrainingBL/images/vdc_00000005DFC8.0x0000AC_BeforeFullPage.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
@@ -110,7 +110,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_00000005DFC8.0x0000AC/full/full/0/default.jpg",
+          "@id" : "https://noramcgregor.github.io/IIIFTrainingBL/images/vdc_00000005DFC8.0x0000AC_AfterFullPage.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
