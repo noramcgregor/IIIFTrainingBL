@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://noramcgregor.github.io/IIIFTrainingBL/manifests/manifest2.json",
     "label" : "A series of original Portraits and Caricature Etchings by J. Kay"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://noramcgregor.github.io/IIIFTrainingBL/manifests/manifest2old.json",
+    "label" : "A series of original Portraits and Caricature Etchings by J. Kay"
   } ]
 }
